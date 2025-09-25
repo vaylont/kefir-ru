@@ -142,8 +142,5 @@ In hekate, autoboot is set by default. That is, when the console starts, the hek
   * To enable, go to Uberhand ((L) + **d-pad down** + (R3)), press right > `Settings` > `Enable 8GB support`
 * **Disabling**
   * To disable, reinstall kefir using a convenient method
- 
-> You can also donate to [charity supporting Ukrainian army](https://savelife.in.ua/en/donate/).
->
-> **THANK YOU!**
+
 
